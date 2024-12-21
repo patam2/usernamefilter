@@ -1,0 +1,8 @@
+indescription:0.85
+link:0.5
+inbio:0.7
+mybio:0.7
+check:0.4
+read:0.4
+link:0.4
+pussy:0.9
